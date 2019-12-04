@@ -14,6 +14,3 @@
 #string STR_MODULE_ABSTRACT             #language en-US "NVM Express Host Controller Module"
 
 #string STR_MODULE_DESCRIPTION          #language en-US "NvmExpressDxe driver is used to manage non-volatile memory subsystem which follows NVM Express specification."
-
-
-
