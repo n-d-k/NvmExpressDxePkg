@@ -1,0 +1,19 @@
+## @file
+#  NvmExpressDxe Package
+#
+#  NvmExpressDxe Driver
+#  Copyright (c) 2007 - 2014, Intel Corporation. All rights reserved.<BR>
+#
+#  SPDX-License-Identifier: BSD-2-Clause-Patent
+#
+##
+
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = NvmExpressDxePkg
+  PACKAGE_UNI_FILE               = NvmExpressDxePkg.uni
+  PACKAGE_GUID                   = 6402e9d2-cd4d-46d5-8a98-91e3f5278fbf
+  PACKAGE_VERSION                = 0.3
+
+[UserExtensions.TianoCore."ExtraFiles"]
+  NvmExpressDxePkgExtra.uni
